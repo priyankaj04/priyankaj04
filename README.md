@@ -11,7 +11,11 @@
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1zgp_K6lPhlSHXbLJPyrHWP2MB3z4FJMTkIJTCML7siY/edit?usp=sharing](https://docs.google.com/document/d/1zgp_K6lPhlSHXbLJPyrHWP2MB3z4FJMTkIJTCML7siY/edit?usp=sharing)
 
-- ⚡ Fun fact **Coffee: The Elixir of Code: I have a special relationship with coffee. It's not just a beverage; it's a lifeline. The caffeine-fueled rituals of sipping coffee while staring at code have become an integral part of the coding experience, providing the necessary boost to tackle complex problems.**
+- ⚡ Top 3 Fun fact **1. Coffee: The Elixir of Code: I have a special relationship with coffee. It's not just a beverage; it's a lifeline. The caffeine-fueled rituals of sipping coffee while staring at code have become an integral part of the coding experience.
+                     2. Committing to Git: More than Relationships : For me, committing is not just reserved for relationships. Regularly committing changes to version control systems like Git, the satisfaction of pushing code and seeing the green 
+  squares on the contribution graph is a unique source of joy for developers.
+                     3. Error 404: Sleep Not Found: Coders often find themselves caught in the web of coding, leading to a common phenomenon known as "coding insomnia." Late-night debugging sessions and the pursuit of the perfect code can result 
+  in sleep deprivation and the elusive search for the "sleep" function in real life.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
