@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1zgp_K6lPhlSHXbLJPyrHWP2MB3z4FJMTkIJTCML7siY/edit?usp=sharing](https://docs.google.com/document/d/1zgp_K6lPhlSHXbLJPyrHWP2MB3z4FJMTkIJTCML7siY/edit?usp=sharing)
 
-- ⚡ Fun fact **Coffee: The Elixir of Code: Coders have a special relationship with coffee. It's not just a beverage; it's a lifeline. The caffeine-fueled rituals of sipping coffee while staring at code have become an integral part of the coding experience, providing the necessary boost to tackle complex problems.**
+- ⚡ Fun fact **Coffee: The Elixir of Code: I have a special relationship with coffee. It's not just a beverage; it's a lifeline. The caffeine-fueled rituals of sipping coffee while staring at code have become an integral part of the coding experience, providing the necessary boost to tackle complex problems.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
