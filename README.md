@@ -3,6 +3,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyankaj04&theme=gruvbox" alt="priyankaj04" /></a> </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=priyankaj04&label=Profile%20views&color=0e75b6&style=flat" alt="priyankaj04" /> </p>
+
 - 🌱 I’m currently exploring **on 3D animations and DevOps**
 
 - 👨‍💻 All of my projects are available at [https://priyankaj04.github.io/portfolio/](https://priyankaj04.github.io/portfolio/)
