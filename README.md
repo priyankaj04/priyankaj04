@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently exploring **on Automation and software development**
 
-- 👨‍💻 All of my projects are available at [https://priyankaj04.github.io/Portfolio-2.0/#/](https://priyankaj04.github.io/Portfolio-2.0/#/)
+- 👨‍💻 All of my projects are available at [Portfolio Link](https://priyankaj04.github.io/Portfolio-2.0/#/)
 
 - 📫 How to reach me **priyankaj2002o4@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1tCcFDRNU3MO3Rc1FlZeu5eHIk8Tbo73iEzK38nMqQUI/edit?usp=sharing](https://docs.google.com/document/d/1tCcFDRNU3MO3Rc1FlZeu5eHIk8Tbo73iEzK38nMqQUI/edit?usp=sharing)
+- 📄 Know about my experiences [[Resume Link](https://drive.google.com/file/d/1wYc9YzSDRo-mRxv2TnUYyMoWtp4dEPjv/view)]
 
 - ⚡ Top 3 Fun fact
 1. **Coffee: The Elixir of Code:** I have a special relationship with coffee. It's not just a beverage; it's a lifeline. The caffeine-fueled rituals of sipping coffee while staring at code have become an integral part of the coding experience.
