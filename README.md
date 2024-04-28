@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently exploring **on Automation and software development**
 
-- 👨‍💻 All of my projects are available at [https://priyankaj04.github.io/portfolio/](https://priyankaj04.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [https://priyankaj04.github.io/Portfolio-2.0/#/](https://priyankaj04.github.io/Portfolio-2.0/#/)
 
 - 📫 How to reach me **priyankaj2002o4@gmail.com**
 
