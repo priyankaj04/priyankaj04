@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **priyankaj2002o4@gmail.com**
 
-- 📄 Know about my experiences [[Resume Link](https://drive.google.com/file/d/1wYc9YzSDRo-mRxv2TnUYyMoWtp4dEPjv/view)]
+- 📄 Know about my experiences [[Resume Link](https://drive.google.com/file/d/1qKMWqkG3phJWzxczTX3huzeUnJ-wR_pH/view)]
 
 - ⚡ Top 3 Fun fact
 1. **Coffee: The Elixir of Code:** I have a special relationship with coffee. It's not just a beverage; it's a lifeline. The caffeine-fueled rituals of sipping coffee while staring at code have become an integral part of the coding experience.
