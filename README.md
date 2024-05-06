@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio Link](https://priyankaj04.github.io/Portfolio-2.0/#/)
 
-- 📫 How to reach me **priyankaj2002o4@gmail.com**
+- 📫 How to reach me **priyankajagadeesha10@gmail.com**
 
 - 📄 Know about my experiences [[Resume Link](https://drive.google.com/file/d/1qKMWqkG3phJWzxczTX3huzeUnJ-wR_pH/view)]
 
