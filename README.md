@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Priyanka J</h1>
-<h3 align="center">A passionate Cross-Platform Developer with 2 years of experience.</h3>
+<h3 align="center">I'm SDE with 2 years of experience.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyankaj04&theme=gruvbox" alt="priyankaj04" /></a> </p>
 
