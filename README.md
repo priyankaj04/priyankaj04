@@ -1,15 +1,13 @@
 <h1 align="center">Hey 👋, I'm Priyanka J</h1>
 <h3 align="center">I'm SDE with 2 years of experience.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyankaj04&theme=gruvbox" alt="priyankaj04" /></a> </p>
-
 - 🌱 I’m currently exploring **on Machine Learning**
 
 - 👨‍💻 All of my projects are available at [Portfolio Link](https://priyankaj04.github.io/Portfolio-2.0/#/)
 
 - 📫 How to reach me **priyankajagadeesha10@gmail.com**
 
-- 📄 Know about my experiences [[Resume Link](https://drive.google.com/file/d/1YI6KP1o6F5ugJVV88gRrItOoXt12d6iN/view?usp=sharing)]
+- 📄 Know about my experiences [[Resume Link](https://drive.google.com/file/d/1sYz8piCTsZM9I-JvvjrnIDsJJFhEEcz2/view?usp=sharing)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
