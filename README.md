@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **priyankajagadeesha10@gmail.com**
 
-- 📄 Know about my experiences [[Resume Link](https://drive.google.com/file/d/1qKMWqkG3phJWzxczTX3huzeUnJ-wR_pH/view?usp=sharing)]
+- 📄 Know about my experiences [[Resume Link](https://drive.google.com/file/d/1tMbCstkStb6-ojX13fh4AEc5xAkh9-1-/view?usp=sharing)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
