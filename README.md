@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **priyankajagadeesha10@gmail.com**
 
-- 📄 Know about my experiences [[Resume Link](https://drive.google.com/file/d/1TO4qzkUKhjV5YByTJDdjrLcXdANZlB_h/view?usp=sharing)]
+- 📄 Know about my experiences [[Resume Link](https://drive.google.com/file/d/1ZfvzM7y2CBByT4XyprOP_G-iyfTG3cvf/view?usp=sharing)]
 
 <h4>My Top Projects</h4>
 
