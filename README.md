@@ -9,6 +9,16 @@
 
 - 📄 Know about my experiences [[Resume Link](https://drive.google.com/file/d/1TO4qzkUKhjV5YByTJDdjrLcXdANZlB_h/view?usp=sharing)]
 
+<h4>My Top Projects</h4>
+
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=priyankaj04&repo=CampusRecruitmentApp&theme=codeSTACKr&show_icons=true&locale=en&layout=compact&hide_border=true)](https://github.com/priyankaj04/CampusRecruitmentApp)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=priyankaj04&repo=Graph-CMS-Blog&theme=codeSTACKr&show_icons=true&locale=en&layout=compact&hide_border=true)](https://github.com/priyankaj04/Graph-CMS-Blog)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=priyankaj04&repo=Brainwave&theme=codeSTACKr&show_icons=true&locale=en&layout=compact&hide_border=true)](https://github.com/priyankaj04/Brainwave)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=priyankaj04&repo=moneytracker-frontend&theme=codeSTACKr&show_icons=true&locale=en&layout=compact&hide_border=true)](https://github.com/priyankaj04/moneytracker-frontend)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=priyankaj04&repo=TMS-frontend&theme=codeSTACKr&show_icons=true&locale=en&layout=compact&hide_border=true)](https://github.com/priyankaj04/TMS-frontend)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=priyankaj04&repo=CRMS_backend&theme=codeSTACKr&show_icons=true&locale=en&layout=compact&hide_border=true)](https://github.com/priyankaj04/CRMS_backend)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/priyankaj04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="priyankaj04" height="30" width="40" /></a>
