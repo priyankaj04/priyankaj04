@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Priyanka J</h1>
+<h1 align="center">Hey 👋 I'm Priyanka J</h1>
 <h3 align="center">I'm SDE with expertise in both full stack and cloud programming.</h3>
 
 - 🌱 I’m currently exploring **on Machine Learning**
