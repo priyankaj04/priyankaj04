@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋 I'm Priyanka J</h1>
-<h3 align="center">I'm SDE with expertise in both full stack and cloud programming.</h3>
+<h3 align="center">Passionate and curious Software Engineer with 2+ years of experience, driven by a relentless desire to learn and grow. Thrive on tackling complex challenges, believing that hard work and persistence pave the way for success. Eager to take risks, push boundaries, and solve problems that deliver real impact.</h3>
 
-- 🌱 I’m currently exploring **on Machine Learning**
+- 🌱 I’m currently exploring **Virtual Reatily and Meta Verse**
 
 - 👨‍💻 All of my projects are available at [Portfolio Link](https://portfolio-dashboard-lsc4.vercel.app/)
 
