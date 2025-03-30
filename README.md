@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **priyankajagadeesha10@gmail.com**
 
-- 📄 Know about my experiences [[Resume Link](https://bit.ly/pj-resume-sde)]
+- 📄 Know about my experiences [Resume Link](https://bit.ly/pj-resume-sde)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
