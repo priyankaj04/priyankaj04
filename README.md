@@ -3,7 +3,7 @@
 
 <p>Passionate and curious human, driven by a relentless desire to learn and grow. Thrive on tackling complex challenges, believing that hard work and persistence pave the way for success. Eager to take risks, push boundaries, and solve problems that deliver real impact.</p>
 
-- 🌱 I’m currently exploring **Virtual Reatily and Meta Verse**
+- 🌱 I’m currently exploring **Machine Learning & AI**
 
 - 👨‍💻 All of my projects are available at [Portfolio Link](https://portfolio-dashboard-lsc4.vercel.app/)
 
