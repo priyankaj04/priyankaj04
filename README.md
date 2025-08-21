@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋 I'm Priyanka J</h1>
-<h3 align="center">Software Engineer with 2+ years of experience.</h3>
+<h3 align="center">Software Engineer with 3 years of experience.</h3>
 
 <p>Passionate and curious human, driven by a relentless desire to learn and grow. Thrive on tackling complex challenges, believing that hard work and persistence pave the way for success. Eager to take risks, push boundaries, and solve problems that deliver real impact.</p>
 
