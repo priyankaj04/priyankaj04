@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently exploring **Machine Learning & AI**
 
-- 👨‍💻 All of my projects are available at [Portfolio Link](https://portfolio-dashboard-lsc4.vercel.app/)
+- 👨‍💻 All of my projects are available at [Portfolio Link](https://portfolio-v3-pearl-one.vercel.app/)
 
 - 📫 How to reach me **priyankajagadeesha10@gmail.com**
 
